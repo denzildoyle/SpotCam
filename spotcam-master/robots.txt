@@ -1,0 +1,3 @@
+User-agent: *
+Allow: application/controllers/welcome.php
+Allow: public
